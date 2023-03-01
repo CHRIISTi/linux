@@ -1,0 +1,5 @@
+﻿#EXTM3U
+#EXTINF:0,iconartwork3002240f9d6a06da0e06ab467e03ca2a2ba0.mp4
+content://com.jrummyapps.rootbrowser.classic.contentprovider/external/my%20sun%20west%20credit%20union%20(1)/iconartwork3002240f9d6a06da0e06ab467e03ca2a2ba0.mp4
+#EXTINF:0,bootsound.mp3
+content://com.jrummyapps.rootbrowser.classic.contentprovider/root/system/media/bootsound.mp3
